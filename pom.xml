@@ -160,6 +160,11 @@
 	    <artifactId>jboss-msc</artifactId>
 	    <version>1.2.6.Final</version>
 	</dependency> 
+	<dependency>
+		<groupId>org.wildfly.swarm</groupId>
+		<artifactId>wildfly-swarm-plugin</artifactId>
+		<version>1.0.0.CR1</version>
+	</dependency>
 
         <dependency>
             <groupId>junit</groupId>
