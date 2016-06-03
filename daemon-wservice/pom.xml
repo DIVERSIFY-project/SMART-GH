@@ -194,7 +194,7 @@
         <dependency>
             <groupId>org.wildfly.swarm</groupId>
             <artifactId>wildfly-swarm-undertow</artifactId>
-            <version>1.0.0.Alpha4</version>
+            <version>1.0.0.Alpha5</version>
         </dependency>
         <dependency>
             <groupId>org.wildfly.swarm</groupId>
